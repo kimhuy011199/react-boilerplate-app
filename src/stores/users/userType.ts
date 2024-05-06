@@ -1,0 +1,6 @@
+export const userType = {
+  REGISTER_USER: 'REGISTER_USER',
+  LOGIN_USER: 'LOGIN_USER',
+  LOGOUT_USER: 'LOGOUT_USER',
+  GET_ME: 'GET_ME',
+};
